@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sheets>
+  <tds>
+    <id>1</id>
+    <productname>Your Product Name</productname>
+    <tscreated>2017-03-05 15:40:49.3776583</tscreated>
+    <tsudpated>2017-08-14 14:18:04.5451360</tsudpated>
+    <language>English</language>
+    <brandid>4</brandid>
+    <productbrand>Brand 3</productbrand>
+    <sharepointid>1</sharepointid>
+    <artifactname>productname.pdf</artifactname>
+    <pricebookcode>SP</pricebookcode>
+    <managedby>YOU</managedby>
+    <sitefinityid></sitefinityid>
+    <gridTechData>
+      <header>Tech Data</header>
+      <description>This is sample data only</description>
+      <colCount>7</colCount>
+      <rows>
+        <row>
+          <col1>A</col1>
+          <col2>B</col2>
+          <col3>C</col3>
+          <col4>D</col4>
+          <col5>E X 2</col5>
+          <col6>F</col6>
+          <col7>G</col7>
+          <col8>H</col8>
+          <col9></col9>
+          <col10></col10>
+        </row>
+        <row>
+          <col1>2 mm</col1>
+          <col2>65 mm</col2>
+          <col3>55 mm</col3>
+          <col4>48 mm</col4>
+          <col5>32 mm</col5>
+          <col6>30 mm</col6>
+          <col7>26 mm</col7>
+          <col8>17 mm</col8>
+          <col9></col9>
+          <col10></col10>
+        </row>
+        <row>
+          <col1>3 mm</col1>
+          <col2>30 mm</col2>
+          <col3>44 mm</col3>
+          <col4>33 mm</col4>
+          <col5>32 mm</col5>
+          <col6>29 mm</col6>
+          <col7>20 mm</col7>
+          <col8>15 mm</col8>
+          <col9></col9>
+          <col10></col10>
+        </row>
+        <row>
+          <col1>4 mm</col1>
+          <col2></col2>
+          <col3>44 mm</col3>
+          <col4>33 mm</col4>
+          <col5>32 mm</col5>
+          <col6>29 mm</col6>
+          <col7>20 mm</col7>
+          <col8>15 mm</col8>
+          <col9></col9>
+          <col10></col10>
+        </row>
+        <row>
+          <col1>5 mm</col1>
+          <col2>58 mm</col2>
+          <col3>44 mm</col3>
+          <col4>33 mm</col4>
+          <col5>32 mm</col5>
+          <col6>29 mm</col6>
+          <col7>20 mm</col7>
+          <col8>15 mm</col8>
+          <col9></col9>
+          <col10></col10>
+        </row>
+        <row>
+          <col1>6 mm</col1>
+          <col2>58 mm</col2>
+          <col3>1 mm</col3>
+          <col4>2 mm</col4>
+          <col5>32 mm</col5>
+          <col6>29 mm</col6>
+          <col7>20 mm</col7>
+          <col8>15 mm</col8>
+          <col9></col9>
+          <col10></col10>
+        </row>
+        <row>
+          <col1>7 mm</col1>
+          <col2>58 mm</col2>
+          <col3>44 mm</col3>
+          <col4>33 mm</col4>
+          <col5>32 mm</col5>
+          <col6>29 mm</col6>
+          <col7>20 mm</col7>
+          <col8>15 mm</col8>
+          <col9></col9>
+          <col10></col10>
+        </row>
+      </rows>
+    </gridTechData>
+    <gridInstall></gridInstall>
+    <attributes>
+      <attribute>
+        <name>Product Name</name>
+        <type>0</type>
+        <header>Option</header>
+        <grid></grid>
+        <value>Your Product Name</value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>Product Type</name>
+        <type>1</type>
+        <header>Option</header>
+        <grid></grid>
+        <value>Type of Product</value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>DESCRIPTION</name>
+        <type>3</type>
+        <header>Header</header>
+        <grid></grid>
+        <value><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex leo, blandit vel dui quis, ultrices vestibulum nulla. Nunc iaculis nibh ut orci sagittis finibus. Phasellus id sapien vestibulum, lobortis quam eget, volutpat est. Fusce at congue sapien, lobortis vehicula velit. Ut a eleifend magna. Praesent placerat dolor in magna luctus varius. Cras vestibulum magna a sapien porta, non mollis elit semper. Suspendisse in consectetur tortor. ]]></value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>APPLICATION</name>
+        <type>3</type>
+        <header>Header</header>
+        <grid></grid>
+        <value><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex leo, blandit vel dui quis, ultrices vestibulum nulla. Nunc iaculis nibh ut orci sagittis finibus. Phasellus id sapien vestibulum, lobortis quam eget, volutpat est. Fusce at congue sapien, lobortis vehicula velit. Ut a eleifend magna. Praesent placerat dolor in magna luctus varius. Cras vestibulum magna a sapien porta, non mollis elit semper. Suspendisse in consectetur tortor. ]]></value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>Installation</name>
+        <type>4</type>
+        <header>Header</header>
+        <grid></grid>
+        <value><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex leo, blandit vel dui quis, ultrices vestibulum nulla. Nunc iaculis nibh ut orci sagittis finibus. Phasellus id sapien vestibulum, lobortis quam eget, volutpat est. Fusce at congue sapien, lobortis vehicula velit. Ut a eleifend magna. Praesent placerat dolor in magna luctus varius. Cras vestibulum magna a sapien porta, non mollis elit semper. Suspendisse in consectetur tortor. ]]></value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>FEATURES</name>
+        <type>6</type>
+        <header>Header</header>
+        <grid></grid>
+        <value><![CDATA[[li] Lorem ipsum dolor sit amet [li] Maecenas ex leo [li] ultrices vestibulum nulla]]></value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>Technical Data Chart</name>
+        <type>12</type>
+        <header>6</header>
+        <grid>Grid_TechData</grid>
+        <value></value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>RELATED PRODUCTS</name>
+        <type>6</type>
+        <header>Header</header>
+        <grid></grid>
+        <value><![CDATA[[li] Lorem ipsum dolor sit amet [li] Maecenas ex leo [li] ultrices vestibulum nulla]]></value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+    </attributes>
+    <related>
+      <product>
+        <productcode>PCODE</productcode>
+        <oheader>Product One</oheader>
+        <salescate>STANDARD</salescate>
+        <productname>STANDARD</productname>
+        <mobiledesc>Product Description</mobiledesc>
+        <winfo>0 LB</winfo>
+      </product>
+      <product>
+        <productcode>PCODE</productcode>
+        <oheader>Product One</oheader>
+        <salescate>STANDARD</salescate>
+        <productname>STANDARD</productname>
+        <mobiledesc>Product Description</mobiledesc>
+        <winfo>0 LB</winfo>
+      </product>
+      <product>
+        <productcode>PCODE</productcode>
+        <oheader>Product One</oheader>
+        <salescate>STANDARD</salescate>
+        <productname>STANDARD</productname>
+        <mobiledesc>Product Description</mobiledesc>
+        <winfo>0 LB</winfo>
+      </product>
+    </related>
+    </tds>
+</sheets>

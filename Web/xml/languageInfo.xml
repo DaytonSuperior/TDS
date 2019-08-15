@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<languages>
+  <language>
+    <BrandID>1</BrandID>
+    <Language>English</Language>
+    <footer1>Page</footer1>
+    <footer2> of </footer2>
+    <footer3></footer3>
+    <footer4>File Date: </footer4>
+    <chemfooterMoreInfo>Visit www.yoursite.com for the most up to date technical information</chemfooterMoreInfo>
+    <chemPageType>TECHNICAL DATA SHEET</chemPageType>
+    <chemManufacturerHeader>MANUFACTURER</chemManufacturerHeader>
+    <chemManufacturer>
+      Your Corporation
+      123 Any Street
+      Our Town, OH 90210
+      Customer Service: 800-555-1212
+      Technical Services: 800-555-1212
+      Website: www.yoursite.com
+    </chemManufacturer>
+    <chemWarrantyHeader>WARRANTY</chemWarrantyHeader>
+    <chemWarranty1>Warranty paragraph #1</chemWarranty1>
+    <chemWarranty2>Warranty paragraph #2</chemWarranty2>
+    <accPageType>TECHNICAL DATA SHEET</accPageType>
+    <accManufacturerHeader>MANUFACTURER</accManufacturerHeader>
+    <accManufacturer>
+      Your Corporation
+      123 Any Street
+      Our Town, OH 90210
+      Customer Service: 800-555-1212
+      Technical Services: 800-555-1212
+      Website: www.yoursite.com
+    </accManufacturer>
+    <cartDocHeader>TECHNICAL DATA SHEET SET</cartDocHeader>
+    <cartTOC>TABLE OF CONTENTS</cartTOC>
+    <cartTOCDocInfo>DOCUMENT INFORMATION</cartTOCDocInfo>
+    <cartTOCProducts>PRODUCTS</cartTOCProducts>
+    <cartHeader>PRODUCTS</cartHeader>
+    <cartSubHeader>CUSTOM PUBLICATION</cartSubHeader>
+    <cartPageType>TECHNICAL DATA SHEETS</cartPageType>
+    <cartLastPage>ADDITIONAL INFORMATION</cartLastPage>
+    <cartSafetyPage>SAFETY INFORMATION</cartSafetyPage>
+    <cartCopy>Copyright © varYear Your Corporation, All Rights Reserved</cartCopy>
+    <cartManufacturerHeader>MANUFACTURER</cartManufacturerHeader>
+    <cartManufacturer>
+      Your Corporation
+      123 Any Street
+      Our Town, OH 90210
+      Customer Service: 800-555-1212
+      Technical Services: 800-555-1212
+      Website: www.yoursite.com
+    </cartManufacturer>
+    <cartPreparedHeader>PREPARED BY</cartPreparedHeader>
+    <cartWarrantyHeader>WARRANTY (CHEMICALS)</cartWarrantyHeader>
+    <cartOrderingInfo>ORDERING INFORMATION</cartOrderingInfo>
+    <cartOrderProduct>Product Code</cartOrderProduct>
+    <cartOrderDesc>Description</cartOrderDesc>
+    <cartOrderWeight>Weight</cartOrderWeight>
+    <cartFrontCover>/tds/CustomHandbookFrontCoverPage.pdf</cartFrontCover>
+    <cartBackCover>/tds/CustomHandbookBackCoverPages.pdf</cartBackCover>
+    <accWarrantyHeader>WARRANTY (ACCESSORIES)</accWarrantyHeader>
+    <accWarranty1>Warranty Line 1</accWarranty1>
+    <formWarrantyHeader>WARRANTY (FORMING)</formWarrantyHeader>
+    <formWarranty1>Warranty Line 1</formWarranty1>
+    <formPageType>TECHNICAL DATA SHEET</formPageType>
+    <formManufacturerHeader>MANUFACTURER</formManufacturerHeader>
+    <formManufacturer>
+      Your Corporation
+      123 Any Street
+      Our Town, OH 90210
+      Customer Service: 800-555-1212
+      Technical Services: 800-555-1212
+      Website: www.yoursite.com
+    </formManufacturer>
+    <formRentalHeader>OWNERSHIP AND USE OF RENTAL PRODUCTS</formRentalHeader>
+    <formRental>Terms and conditions.</formRental>
+  </language>
+  <language>
+    <BrandID>2</BrandID>
+    <Language>English</Language>
+    <footer1>Page</footer1>
+    <footer2> of </footer2>
+    <footer3></footer3>
+    <footer4>File Date: </footer4>
+    <chemfooterMoreInfo>Visit www.yoursite.com for the most up to date technical information</chemfooterMoreInfo>
+    <chemPageType>TECHNICAL DATA SHEET</chemPageType>
+    <chemManufacturerHeader>MANUFACTURER</chemManufacturerHeader>
+    <chemManufacturer>
+      Your Corporation
+      123 Any Street
+      Our Town, OH 90210
+      Customer Service: 800-555-1212
+      Technical Services: 800-555-1212
+      Website: www.yoursite.com
+    </chemManufacturer>
+    <chemWarrantyHeader>WARRANTY</chemWarrantyHeader>
+    <chemWarranty1>Warranty paragraph #1</chemWarranty1>
+    <chemWarranty2>Warranty paragraph #2</chemWarranty2>
+    <accPageType>TECHNICAL DATA SHEET</accPageType>
+    <accManufacturerHeader>MANUFACTURER</accManufacturerHeader>
+    <accManufacturer>
+      Your Corporation
+      123 Any Street
+      Our Town, OH 90210
+      Customer Service: 800-555-1212
+      Technical Services: 800-555-1212
+      Website: www.yoursite.com
+    </accManufacturer>
+    <cartDocHeader>TECHNICAL DATA SHEET SET</cartDocHeader>
+    <cartTOC>TABLE OF CONTENTS</cartTOC>
+    <cartTOCDocInfo>DOCUMENT INFORMATION</cartTOCDocInfo>
+    <cartTOCProducts>PRODUCTS</cartTOCProducts>
+    <cartHeader>PRODUCTS</cartHeader>
+    <cartSubHeader>CUSTOM PUBLICATION</cartSubHeader>
+    <cartPageType>TECHNICAL DATA SHEETS</cartPageType>
+    <cartLastPage>ADDITIONAL INFORMATION</cartLastPage>
+    <cartSafetyPage>SAFETY INFORMATION</cartSafetyPage>
+    <cartCopy>Copyright © varYear Your Corporation, All Rights Reserved</cartCopy>
+    <cartManufacturerHeader>MANUFACTURER</cartManufacturerHeader>
+    <cartManufacturer>
+      Your Corporation
+      123 Any Street
+      Our Town, OH 90210
+      Customer Service: 800-555-1212
+      Technical Services: 800-555-1212
+      Website: www.yoursite.com
+    </cartManufacturer>
+    <cartPreparedHeader>PREPARED BY</cartPreparedHeader>
+    <cartWarrantyHeader>WARRANTY (CHEMICALS)</cartWarrantyHeader>
+    <cartOrderingInfo>ORDERING INFORMATION</cartOrderingInfo>
+    <cartOrderProduct>Product Code</cartOrderProduct>
+    <cartOrderDesc>Description</cartOrderDesc>
+    <cartOrderWeight>Weight</cartOrderWeight>
+    <cartFrontCover>/tds/CustomHandbookFrontCoverPage.pdf</cartFrontCover>
+    <cartBackCover>/tds/CustomHandbookBackCoverPages.pdf</cartBackCover>
+    <accWarrantyHeader>WARRANTY (ACCESSORIES)</accWarrantyHeader>
+    <accWarranty1>Warranty Line 1</accWarranty1>
+    <formWarrantyHeader>WARRANTY (FORMING)</formWarrantyHeader>
+    <formWarranty1>Warranty Line 1</formWarranty1>
+    <formPageType>TECHNICAL DATA SHEET</formPageType>
+    <formManufacturerHeader>MANUFACTURER</formManufacturerHeader>
+    <formManufacturer>
+      Your Corporation
+      123 Any Street
+      Our Town, OH 90210
+      Customer Service: 800-555-1212
+      Technical Services: 800-555-1212
+      Website: www.yoursite.com
+    </formManufacturer>
+    <formRentalHeader>OWNERSHIP AND USE OF RENTAL PRODUCTS</formRentalHeader>
+    <formRental>Terms and conditions.</formRental>
+  </language>
+  <language>
+    <BrandID>4</BrandID>
+    <Language>English</Language>
+    <footer1>Page</footer1>
+    <footer2> of </footer2>
+    <footer3></footer3>
+    <footer4>File Date: </footer4>
+    <chemfooterMoreInfo>Visit www.yoursite.com for the most up to date technical information</chemfooterMoreInfo>
+    <chemPageType>TECHNICAL DATA SHEET</chemPageType>
+    <chemManufacturerHeader>MANUFACTURER</chemManufacturerHeader>
+    <chemManufacturer>
+      Your Corporation
+      123 Any Street
+      Our Town, OH 90210
+      Customer Service: 800-555-1212
+      Technical Services: 800-555-1212
+      Website: www.yoursite.com
+    </chemManufacturer>
+    <chemWarrantyHeader>WARRANTY</chemWarrantyHeader>
+    <chemWarranty1>Warranty paragraph #1</chemWarranty1>
+    <chemWarranty2>Warranty paragraph #2</chemWarranty2>
+    <accPageType>TECHNICAL DATA SHEET</accPageType>
+    <accManufacturerHeader>MANUFACTURER</accManufacturerHeader>
+    <accManufacturer>
+      Your Corporation
+      123 Any Street
+      Our Town, OH 90210
+      Customer Service: 800-555-1212
+      Technical Services: 800-555-1212
+      Website: www.yoursite.com
+    </accManufacturer>
+    <cartDocHeader>TECHNICAL DATA SHEET SET</cartDocHeader>
+    <cartTOC>TABLE OF CONTENTS</cartTOC>
+    <cartTOCDocInfo>DOCUMENT INFORMATION</cartTOCDocInfo>
+    <cartTOCProducts>PRODUCTS</cartTOCProducts>
+    <cartHeader>PRODUCTS</cartHeader>
+    <cartSubHeader>CUSTOM PUBLICATION</cartSubHeader>
+    <cartPageType>TECHNICAL DATA SHEETS</cartPageType>
+    <cartLastPage>ADDITIONAL INFORMATION</cartLastPage>
+    <cartSafetyPage>SAFETY INFORMATION</cartSafetyPage>
+    <cartCopy>Copyright © varYear Your Corporation, All Rights Reserved</cartCopy>
+    <cartManufacturerHeader>MANUFACTURER</cartManufacturerHeader>
+    <cartManufacturer>
+      Your Corporation
+      123 Any Street
+      Our Town, OH 90210
+      Customer Service: 800-555-1212
+      Technical Services: 800-555-1212
+      Website: www.yoursite.com
+    </cartManufacturer>
+    <cartPreparedHeader>PREPARED BY</cartPreparedHeader>
+    <cartWarrantyHeader>WARRANTY (CHEMICALS)</cartWarrantyHeader>
+    <cartOrderingInfo>ORDERING INFORMATION</cartOrderingInfo>
+    <cartOrderProduct>Product Code</cartOrderProduct>
+    <cartOrderDesc>Description</cartOrderDesc>
+    <cartOrderWeight>Weight</cartOrderWeight>
+    <cartFrontCover>/tds/CustomHandbookFrontCoverPage.pdf</cartFrontCover>
+    <cartBackCover>/tds/CustomHandbookBackCoverPages.pdf</cartBackCover>
+    <accWarrantyHeader>WARRANTY (ACCESSORIES)</accWarrantyHeader>
+    <accWarranty1>Warranty Line 1</accWarranty1>
+    <formWarrantyHeader>WARRANTY (FORMING)</formWarrantyHeader>
+    <formWarranty1>Warranty Line 1</formWarranty1>
+    <formPageType>TECHNICAL DATA SHEET</formPageType>
+    <formManufacturerHeader>MANUFACTURER</formManufacturerHeader>
+    <formManufacturer>
+      Your Corporation
+      123 Any Street
+      Our Town, OH 90210
+      Customer Service: 800-555-1212
+      Technical Services: 800-555-1212
+      Website: www.yoursite.com
+    </formManufacturer>
+    <formRentalHeader>OWNERSHIP AND USE OF RENTAL PRODUCTS</formRentalHeader>
+    <formRental>Terms and conditions.</formRental>
+  </language>
+
+</languages>

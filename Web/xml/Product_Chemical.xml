@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sheets>
+  <tds>
+    <id>1</id>
+    <productname>Your Product</productname>
+    <tscreated>2017-03-05 15:40:49.3776583</tscreated>
+    <tsudpated>2017-08-14 14:18:04.5451360</tsudpated>
+    <language>English</language>
+    <brandid>2</brandid>
+    <productbrand>Brand 2</productbrand>
+    <sharepointid>1</sharepointid>
+    <artifactname>productname.pdf</artifactname>
+    <pricebookcode>PriceBook</pricebookcode>
+    <managedby>YOU</managedby>
+    <sitefinityid></sitefinityid>
+    <earthFriendly>1</earthFriendly>
+    <standard61>1</standard61>
+    <Grid_TestResults>
+      <header>Test Results</header>
+      <description>This is sample data only</description>
+      <colCount>9</colCount>
+      <rows>
+        <row>
+          <col1></col1>
+          <col2>@ 1 Day</col2>
+          <col3></col3>
+          <col4>@ 3 Days</col4>
+          <col5></col5>
+          <col6>@ 7 Days</col6>
+          <col7></col7>
+          <col8>@ 28 Days</col8>
+          <col9></col9>
+          <col10></col10>
+        </row>
+        <row>
+          <col1>Fluidity</col1>
+          <col2>PSI</col2>
+          <col3>MPa</col3>
+          <col4>PSI</col4>
+          <col5>MPa</col5>
+          <col6>PSI</col6>
+          <col7>MPa</col7>
+          <col8>PSI</col8>
+          <col9>MPa</col9>
+          <col10></col10>
+        </row>
+        <row>
+          <col1>Dry-Pack</col1>
+          <col2>5000</col2>
+          <col3>34.5</col3>
+          <col4>7000</col4>
+          <col5>48.2</col5>
+          <col6>9000</col6>
+          <col7>62.0</col7>
+          <col8>10000</col8>
+          <col9>68.9</col9>
+          <col10></col10>
+        </row>
+        <row>
+          <col1>Flowable</col1>
+          <col2>5000</col2>
+          <col3>34.5</col3>
+          <col4>7000</col4>
+          <col5>48.2</col5>
+          <col6>9000</col6>
+          <col7>62.0</col7>
+          <col8>10000</col8>
+          <col9>68.9</col9>
+          <col10></col10>
+        </row>
+        <row>
+          <col1>Fluid</col1>
+          <col2>5000</col2>
+          <col3>34.5</col3>
+          <col4>7000</col4>
+          <col5>48.2</col5>
+          <col6>9000</col6>
+          <col7>62.0</col7>
+          <col8>10000</col8>
+          <col9>68.9</col9>
+          <col10></col10>
+        </row>
+      </rows>
+    </Grid_TestResults>
+    <Grid_Packaging>
+      <header>Packaging</header>
+      <description>Sample Data Only</description>
+      <colCount>4</colCount>
+      <rows>
+        <row>
+          <col1>Product Code</col1>
+          <col2>Package</col2>
+          <col3>Size</col3>
+          <col4></col4>
+          <col5></col5>
+          <col6></col6>
+          <col7></col7>
+          <col8></col8>
+          <col9></col9>
+          <col10></col10>
+        </row>
+        <row>
+          <col1></col1>
+          <col2></col2>
+          <col3>lbs</col3>
+          <col4>kg</col4>
+          <col5></col5>
+          <col6></col6>
+          <col7></col7>
+          <col8></col8>
+          <col9></col9>
+          <col10></col10>
+        </row>
+        <row>
+          <col1>67435</col1>
+          <col2>Bag</col2>
+          <col3>50</col3>
+          <col4>22.7</col4>
+          <col5></col5>
+          <col6></col6>
+          <col7></col7>
+          <col8></col8>
+          <col9></col9>
+          <col10></col10>
+        </row>
+        <row>
+          <col1>67437</col1>
+          <col2>Supersack</col2>
+          <col3>3,000</col3>
+          <col4>1,360.8</col4>
+          <col5></col5>
+          <col6></col6>
+          <col7></col7>
+          <col8></col8>
+          <col9></col9>
+          <col10></col10>
+        </row>
+      </rows>
+    </Grid_Packaging>
+    <attributes>
+      <attribute>
+        <name>Product Name</name>
+        <type>0</type>
+        <header>Option</header>
+        <grid></grid>
+        <value>Your Product</value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>Product Type</name>
+        <type>1</type>
+        <header>Option</header>
+        <grid></grid>
+        <value>Short Description</value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>Category</name>
+        <type>7</type>
+        <header>Option</header>
+        <grid></grid>
+        <value>Widgets</value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>DESCRIPTION</name>
+        <type>3</type>
+        <header>Header</header>
+        <grid></grid>
+        <value><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex leo, blandit vel dui quis, ultrices vestibulum nulla. Nunc iaculis nibh ut orci sagittis finibus. Phasellus id sapien vestibulum, lobortis quam eget, volutpat est. Fusce at congue sapien, lobortis vehicula velit. Ut a eleifend magna. Praesent placerat dolor in magna luctus varius. Cras vestibulum magna a sapien porta, non mollis elit semper. Suspendisse in consectetur tortor. ]]></value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>USE</name>
+        <type>3</type>
+        <header>Header</header>
+        <grid></grid>
+        <value><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex leo, blandit vel dui quis, ultrices vestibulum nulla. Nunc iaculis nibh ut orci sagittis finibus. Phasellus id sapien vestibulum, lobortis quam eget, volutpat est. Fusce at congue sapien, lobortis vehicula velit. Ut a eleifend magna. Praesent placerat dolor in magna luctus varius. Cras vestibulum magna a sapien porta, non mollis elit semper. Suspendisse in consectetur tortor. ]]></value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>FEATURES</name>
+        <type>6</type>
+        <header>Header</header>
+        <grid></grid>
+        <value><![CDATA[[li] Lorem ipsum dolor sit amet [li] Maecenas ex leo [li] ultrices vestibulum nulla]]></value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>PROPERTIES</name>
+        <type>12</type>
+        <header>Header</header>
+        <grid></grid>
+        <value><![CDATA[[li] Lorem ipsum dolor sit amet [li] Maecenas ex leo [li] ultrices vestibulum nulla]]></value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>Test Results</name>
+        <type>4</type>
+        <header>Header</header>
+        <grid>Grid_TestResults</grid>
+        <value>4</value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>Note:</name>
+        <type>8</type>
+        <header>8</header>
+        <grid></grid>
+        <value><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex leo, blandit vel dui quis, ultrices vestibulum nulla. Nunc iaculis nibh ut orci sagittis finibus. Phasellus id sapien vestibulum, lobortis quam eget, volutpat est. Fusce at congue sapien, lobortis vehicula velit. Ut a eleifend magna. Praesent placerat dolor in magna luctus varius. Cras vestibulum magna a sapien porta, non mollis elit semper. Suspendisse in consectetur tortor. ]]></value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>Estimating Guide</name>
+        <type>3</type>
+        <header>Header</header>
+        <grid></grid>
+        <value><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex leo, blandit vel dui quis, ultrices vestibulum nulla. Nunc iaculis nibh ut orci sagittis finibus. Phasellus id sapien vestibulum, lobortis quam eget, volutpat est. Fusce at congue sapien, lobortis vehicula velit. Ut a eleifend magna. Praesent placerat dolor in magna luctus varius. Cras vestibulum magna a sapien porta, non mollis elit semper. Suspendisse in consectetur tortor. ]]></value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>PACKAGING</name>
+        <type>4</type>
+        <header>Header</header>
+        <grid>Grid_Packaging</grid>
+        <value>4</value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>STORAGE</name>
+        <type>3</type>
+        <header>Header</header>
+        <grid></grid>
+        <value><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex leo, blandit vel dui quis, ultrices vestibulum nulla. Nunc iaculis nibh ut orci sagittis finibus. Phasellus id sapien vestibulum, lobortis quam eget, volutpat est. Fusce at congue sapien, lobortis vehicula velit. Ut a eleifend magna. Praesent placerat dolor in magna luctus varius. Cras vestibulum magna a sapien porta, non mollis elit semper. Suspendisse in consectetur tortor. ]]></value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+      <attribute>
+        <name>Surface Preparation:</name>
+        <type>9</type>
+        <header>24</header>
+        <grid></grid>
+        <value><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex leo, blandit vel dui quis, ultrices vestibulum nulla. Nunc iaculis nibh ut orci sagittis finibus. Phasellus id sapien vestibulum, lobortis quam eget, volutpat est. Fusce at congue sapien, lobortis vehicula velit. Ut a eleifend magna. Praesent placerat dolor in magna luctus varius. Cras vestibulum magna a sapien porta, non mollis elit semper. Suspendisse in consectetur tortor. ]]></value>
+        <showonsheet>1</showonsheet>
+      </attribute>
+    </attributes>
+    <attribute>
+      <name>Mixing:</name>
+      <type>9</type>
+      <header>38</header>
+      <grid></grid>
+      <value><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex leo, blandit vel dui quis, ultrices vestibulum nulla. Nunc iaculis nibh ut orci sagittis finibus. Phasellus id sapien vestibulum, lobortis quam eget, volutpat est. Fusce at congue sapien, lobortis vehicula velit. Ut a eleifend magna. Praesent placerat dolor in magna luctus varius. Cras vestibulum magna a sapien porta, non mollis elit semper. Suspendisse in consectetur tortor. ]]></value>
+      <showonsheet>1</showonsheet>
+    </attribute>
+    <attribute>
+      <name>Placement:</name>
+      <type>9</type>
+      <header>24</header>
+      <grid></grid>
+      <value><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex leo, blandit vel dui quis, ultrices vestibulum nulla. Nunc iaculis nibh ut orci sagittis finibus. Phasellus id sapien vestibulum, lobortis quam eget, volutpat est. Fusce at congue sapien, lobortis vehicula velit. Ut a eleifend magna. Praesent placerat dolor in magna luctus varius. Cras vestibulum magna a sapien porta, non mollis elit semper. Suspendisse in consectetur tortor. ]]></value>
+      <showonsheet>1</showonsheet>
+    </attribute>
+    <attribute>
+      <name>CURING</name>
+      <type>9</type>
+      <header>48</header>
+      <grid></grid>
+      <value><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex leo, blandit vel dui quis, ultrices vestibulum nulla. Nunc iaculis nibh ut orci sagittis finibus. Phasellus id sapien vestibulum, lobortis quam eget, volutpat est. Fusce at congue sapien, lobortis vehicula velit. Ut a eleifend magna. Praesent placerat dolor in magna luctus varius. Cras vestibulum magna a sapien porta, non mollis elit semper. Suspendisse in consectetur tortor. ]]></value>
+      <showonsheet>1</showonsheet>
+    </attribute>
+    <attribute>
+      <name>CLEAN UP</name>
+      <type>3</type>
+      <header>Header</header>
+      <grid></grid>
+      <value><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex leo, blandit vel dui quis, ultrices vestibulum nulla. Nunc iaculis nibh ut orci sagittis finibus. Phasellus id sapien vestibulum, lobortis quam eget, volutpat est. Fusce at congue sapien, lobortis vehicula velit. Ut a eleifend magna. Praesent placerat dolor in magna luctus varius. Cras vestibulum magna a sapien porta, non mollis elit semper. Suspendisse in consectetur tortor. ]]></value>
+      <showonsheet>1</showonsheet>
+    </attribute>
+    <attribute>
+      <name>FOR PROFESSIONAL USE ONLY</name>
+      <type>3</type>
+      <header>57</header>
+      <grid></grid>
+      <value><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ex leo, blandit vel dui quis, ultrices vestibulum nulla. Nunc iaculis nibh ut orci sagittis finibus. Phasellus id sapien vestibulum, lobortis quam eget, volutpat est. Fusce at congue sapien, lobortis vehicula velit. Ut a eleifend magna. Praesent placerat dolor in magna luctus varius. Cras vestibulum magna a sapien porta, non mollis elit semper. Suspendisse in consectetur tortor. ]]></value>
+      <showonsheet>1</showonsheet>
+    </attribute>
+    <attribute>
+      <name>READ MSDS PRIOR TO USING PRODUCT</name>
+      <type>11</type>
+      <header>59</header>
+      <grid></grid>
+      <value><![CDATA[[li] Lorem ipsum dolor sit amet [li] Maecenas ex leo [li] ultrices vestibulum nulla]]></value>
+      <showonsheet>1</showonsheet>
+    </attribute>
+    <related>
+      <product>
+        <productcode>PCODE</productcode>
+        <oheader>Product One</oheader>
+        <salescate>STANDARD</salescate>
+        <productname>STANDARD</productname>
+        <mobiledesc>Product Description</mobiledesc>
+        <winfo>0 LB</winfo>
+      </product>
+      <product>
+        <productcode>PCODE</productcode>
+        <oheader>Product One</oheader>
+        <salescate>STANDARD</salescate>
+        <productname>STANDARD</productname>
+        <mobiledesc>Product Description</mobiledesc>
+        <winfo>0 LB</winfo>
+      </product>
+      <product>
+        <productcode>PCODE</productcode>
+        <oheader>Product One</oheader>
+        <salescate>STANDARD</salescate>
+        <productname>STANDARD</productname>
+        <mobiledesc>Product Description</mobiledesc>
+        <winfo>0 LB</winfo>
+      </product>
+    </related>
+  </tds>
+</sheets>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<brands>
+  <brand>
+    <id>1</id>
+    <name>Brand 1</name>
+    <colorR>0</colorR>
+    <colorG>148</colorG>
+    <colorB>208</colorB>
+    <colorC>1.00</colorC>
+    <colorM>0.288</colorM>
+    <colorY>0.000</colorY>
+    <colorK>0.184</colorK>
+    <logo>brand1.png</logo>
+    <privatelabel>0</privatelabel>
+    <showsectioninfo>0</showsectioninfo>
+  </brand>
+  <brand>
+    <id>2</id>
+    <name>Brand 2</name>
+    <colorR>0</colorR>
+    <colorG>148</colorG>
+    <colorB>208</colorB>
+    <colorC>1.00</colorC>
+    <colorM>0.288</colorM>
+    <colorY>0.000</colorY>
+    <colorK>0.184</colorK>
+    <logo>brand2.jpg</logo>
+    <privatelabel>0</privatelabel>
+    <showsectioninfo>0</showsectioninfo>
+  </brand>
+  <brand>
+    <id>4</id>
+    <name>Brand 3</name>
+    <colorR>200</colorR>
+    <colorG>70</colorG>
+    <colorB>50</colorB>
+    <colorC>0.000</colorC>
+    <colorM>0.650</colorM>
+    <colorY>0.750</colorY>
+    <colorK>0.216</colorK>
+    <logo>brand4.jpg</logo>
+    <privatelabel>0</privatelabel>
+    <showsectioninfo>0</showsectioninfo>
+  </brand>
+</brands>

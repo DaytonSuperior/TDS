@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Letters>
+  <Letter>
+    <id>1</id>
+    <ProductName>Your Product Name</ProductName>
+    <LetterDate>7/9/2019</LetterDate>
+    <Manufacturing>
+      <Location>Small Town, OH</Location>
+      <Location>Big City, NY</Location>
+    </Manufacturing>
+    <Credits>
+      <Credit>MR Credit 2.2 Construction Waste Management (Divert 75%)</Credit>
+    </Credits>
+    <Signing>
+      <ImageFile>leed1.jpg</ImageFile>
+      <Manager>Jane Doe - Technical Product Manager</Manager>
+    </Signing>
+  </Letter>
+  <Letter>
+    <id>2</id>
+    <ProductName>Your Second Product Name</ProductName>
+    <LetterDate>7/9/2019</LetterDate>
+    <Manufacturing>
+      <Location>Small Town, OH</Location>
+      <Location>Big City, NY</Location>
+    </Manufacturing>
+    <Credits>
+      <Credit>MR Credit 2.1 Construction Waste Management (Divert 50%)</Credit>
+    </Credits>
+    <Signing>
+      <ImageFile>leed2.jpg</ImageFile>
+      <Manager>John Doe - Technical Product Manager</Manager>
+    </Signing>
+  </Letter>
+</Letters>
